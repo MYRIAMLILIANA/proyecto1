@@ -8,6 +8,7 @@ body{
    }
 header{
     background-color: rgb(140, 193, 236);
+    
     }
 
 p{
@@ -37,6 +38,7 @@ img{
     width: 100vw;
     height: 300px;
     margin: 6px;
+    object-fit: contain;
 }
 main{
     background-color: black;
