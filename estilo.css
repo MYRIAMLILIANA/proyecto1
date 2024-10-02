@@ -40,7 +40,7 @@ img{
     object-fit: contain;
 }
 main{
-    background-color: black;
+    background-color: rgb(218, 139, 20);
     grid-row: 1;
 }
 footer{
