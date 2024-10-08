@@ -4,7 +4,7 @@ body{
     display: grid;
     grid-template-columns: repeat(1,1fr);
     /* grid-auto-rows: 100px auto; *//*  */
-    grid-template-rows: 10vh 80vh 10vh;
+    grid-template-rows: minmax(10vh, auto) 80vh 10vh;
    }
 header{
     background-color: rgb(140, 193, 236);
